@@ -1,0 +1,22 @@
+body {
+   background-image: url('/images/bg.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+ }
+.link {
+   color: rgb(255, 0, 0);
+   font-size: x-large;
+  }
+.linkk {
+   color: rgb(255, 0, 0);
+   font-size: x-large;
+  }
+  .linkkk {
+   color: rgb(0, 255, 0);
+   font-size: large;
+  }
+.para {
+   text-align: justify;
+   font-size: x-large;
+    }
