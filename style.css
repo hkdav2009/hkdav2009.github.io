@@ -9,8 +9,8 @@ body {
    font-size: x-large;
   }
 .linkk {
-   color: rgb(255, 0, 0);
-   font-size: x-large;
+   color: rgb(255, 255, 0);
+   font-size: large;
   }
   .linkkk {
    color: rgb(0, 255, 0);
@@ -19,4 +19,5 @@ body {
 .para {
    text-align: justify;
    font-size: x-large;
+   color: rgb(0, 255, 0);
     }
